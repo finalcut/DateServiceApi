@@ -1,0 +1,57 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+node_modules
+
+# StyleCop in case they come back
+StyleCop.cache
+
+# Visual Studio Code
+#.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.json.tf
+
+# Old directories that were removed.
+Api/Api/*
+Api/Api.Tests/*
+Services.External/*
+Services.External.Tests/*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+
+
+# mongodb
+db/*
+
+# log4net
+*.log
+*.log.*
+Api/Api/TERRAFORM/*
+.vscode/settings.json
+artifacts/*.xml
+DateService/appsettings.Development.json

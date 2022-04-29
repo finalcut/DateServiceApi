@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateService", "DateService\DateService.csproj", "{BB910162-C9F1-4B13-8E07-BE8ED7AD839C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateServiceTests", "DateServiceTests\DateServiceTests.csproj", "{F14A41FB-4AAD-4E28-BE35-AF6BE87E3746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB910162-C9F1-4B13-8E07-BE8ED7AD839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB910162-C9F1-4B13-8E07-BE8ED7AD839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB910162-C9F1-4B13-8E07-BE8ED7AD839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB910162-C9F1-4B13-8E07-BE8ED7AD839C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14A41FB-4AAD-4E28-BE35-AF6BE87E3746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A41FB-4AAD-4E28-BE35-AF6BE87E3746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A41FB-4AAD-4E28-BE35-AF6BE87E3746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A41FB-4AAD-4E28-BE35-AF6BE87E3746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753FB971-DC21-4819-91BC-0A2A466C7A6A}
+	EndGlobalSection
+EndGlobal
